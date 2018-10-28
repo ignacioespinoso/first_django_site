@@ -1,1 +1,20 @@
-h1 {text-align: center}
+.page-header {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Roboto Slab', serif;
+    font-size: 36pt;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+    text-align: left
+}
+
+.post {
+    font-family: 'Roboto Slab', serif;
+    padding-left: 15px;
+}
+
+.post h3, .post h3 a, .post h3 a:visited{
+    color: #c60b2b;
+}
+
+
